@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning data analysis
+- 🌱 I’m currently learning data analysis 😄
 
 <!--
 **Sunkim21k/Sunkim21k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
